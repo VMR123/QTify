@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './components/NavBar/NavBar.jsx'
+import Navbar from './components/Navbar/Navbar.jsx'
 import Hero from './components/Hero/Hero.jsx'
 import styles from './App.module.css'
 import { useEffect, useState } from 'react'
